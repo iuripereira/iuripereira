@@ -2,8 +2,8 @@
 
 - :mortar_board: MSc. Software Engineering with emphasis in software testing
 - :memo: currently learning React Native
-
-- :hotel: Federal University of Rio Grande do Norte - UFRN
+- :computer: working at MoPA Embedded Systems
+- :hotel: studied at Federal University of Rio Grande do Norte - UFRN
 
 <!-- status codes -->
 <p>
