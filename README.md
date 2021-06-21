@@ -1,7 +1,7 @@
 ### Hello, world!
 
 - :mortar_board: MSc. Software Engineering with emphasis in software testing
-- :memo: currently learning React Native
+- :memo: currently learning Node.js
 - :computer: working at MoPA Embedded Systems
 - :hotel: studied at Federal University of Rio Grande do Norte - UFRN / IMD
 
