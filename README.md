@@ -2,7 +2,7 @@
 
 - :mortar_board: MSc. Software Engineering with emphasis in software testing
 - :memo: currently learning Node.js
-- :computer: working at MoPA Embedded Systems
+- :computer: working at [Softplan](https://www.softplan.com.br/)
 - :hotel: studied at Federal University of Rio Grande do Norte - UFRN / IMD
 
 <!-- status codes -->
