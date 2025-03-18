@@ -1,7 +1,7 @@
 ### Hello, world!
 
 - :mortar_board: MSc. Software Engineering with emphasis in software testing
-- :memo: currently learning Node.js
+- :memo: currently learning Python and Data Analysis
 - :computer: working at [Softplan](https://www.softplan.com.br/)
 - :hotel: studied at Federal University of Rio Grande do Norte - UFRN / IMD
 
