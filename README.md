@@ -2,7 +2,6 @@
 
 - :mortar_board: MSc. Professional in IT with emphasis in software testing
 - :memo: currently learning Python, Machine Learning and Data Analysis
-- :computer: working at [Softplan](https://www.softplan.com.br/)
 - :hotel: studied at Federal University of Rio Grande do Norte - UFRN / IMD
 
 <!-- status codes -->
