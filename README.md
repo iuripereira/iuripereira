@@ -27,11 +27,7 @@ and ITIL-aligned workflows to Python automation and AI-augmented operations.
 
 ## 🛠️ **Tech Stack**
 
-### **ITSM & Governance**  
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
-![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=flat&logo=zendesk&logoColor=white)
-![ITIL](https://img.shields.io/badge/ITIL4-purple?style=flat)
+ITSM & Governance ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white) ![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=flat&logo=zendesk&logoColor=white) ![ITIL](https://img.shields.io/badge/ITIL4-purple?style=flat)
 
 ### **Automation & Development**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -51,8 +47,6 @@ and ITIL-aligned workflows to Python automation and AI-augmented operations.
 ### **AI & Emerging**  
 ![Claude](https://img.shields.io/badge/Claude%20Code-CC785C?style=flat)
 ![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-black?style=flat)
-
-## 🚀 **Featured Projects**
 
 ## 🚀 Featured Projects
 
