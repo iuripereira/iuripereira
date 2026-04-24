@@ -15,6 +15,8 @@
   </a>
 </p>
 
+---
+
 ## 👋 **About Me**
 
 Senior IT professional with 13+ years bridging **IT Governance, ITSM, and process automation**. I specialize in translating technical complexity into operational clarity — from Jira administration and ITIL-aligned workflows to Python automation and AI-augmented operations.
@@ -25,6 +27,8 @@ Senior IT professional with 13+ years bridging **IT Governance, ITSM, and proces
 - 🎯 Focused on: Jira Cloud Admin · JSM · Process Automation · IT Governance
 - 🌎 Based in Brazil | Open to **remote** opportunities
 
+---
+
 ## 🛠️ Tech Stack
 
 | Category | Technologies |
@@ -34,6 +38,8 @@ Senior IT professional with 13+ years bridging **IT Governance, ITSM, and proces
 | 📊 Data & Visualization | ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) |
 | ☁️ Cloud & Infrastructure | ![Azure AD](https://img.shields.io/badge/Azure%20AD-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Hostinger VPS](https://img.shields.io/badge/VPS-Hostinger-673DE6?style=flat) |
 | 🤖 AI & Emerging | ![Claude](https://img.shields.io/badge/Claude%20Code-CC785C?style=flat) ![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-black?style=flat) |
+
+---
 
 ## 🚀 Featured Projects
 
