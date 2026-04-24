@@ -45,9 +45,6 @@ Senior IT professional with 13+ years bridging **IT Governance, ITSM, and proces
 
 | Project | Description | Stack | Category | Status |
 |---|---|---|---|---|
-| whatsapp-ticket-automation | WhatsApp → ITSM ticket automation: 10min → 5sec (120x faster) | Python, Webhooks, IBM Maximo | Private | Completed |
-| jira-kpi-dashboard | Managerial KPI dashboard for IT Governance | Power BI, Excel, Graph API | Private | Completed |
-| jira-cloud-rollout | Jira Cloud rollout for 150+ users — workflows, permissions & templates | Jira Admin, JQL, Automations | Private | Completed |
 | claude-mcp-atlassian | Claude Code + Atlassian Rovo MCP Server integration | Claude Code, MCP, Python | Public | Planned |
 | prospect-ai | AI-powered prospecting system — Metris Digital | Python, Claude Code | Private | In Progress |
 | imex-travelplanner | Travel planning solution — IMEX Medical | TBD | Private | In Progress |
