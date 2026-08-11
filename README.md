@@ -34,7 +34,7 @@ open_to:   100% remote roles — IT Governance, ITSM, AI-augmented ops
 
 - **Veredas.Tech** — consulting on IT governance, ITSM and applied AI.
 - **AI assistants for clinics** — conversational automation over real clinical/admin workflows.
-- **`deltaspec`** — my own spec-driven development framework: specs as source of truth, agents as executors, versioned outcomes.
+- **[`deltaspec`](https://github.com/iuripereira/deltaspec)** — my own spec-driven development framework: specs as source of truth, agents as executors, versioned outcomes.
 - **Writing** — *IA.gora* newsletter: ITSM + AI governance, in Portuguese.
 
 ---
