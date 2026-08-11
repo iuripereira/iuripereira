@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/iguerra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://veredas.tec.br"><img src="https://img.shields.io/badge/Veredas.Tech-1F1F1F?style=flat-square&logo=googlechrome&logoColor=white" alt="Veredas.Tech"></a>
   <a href="https://iuri.blog"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=hashnode&logoColor=white" alt="Blog"></a>
-  <a href="https://www.linkedin.com/newsletters/COLE-O-ID-DA-NEWSLETTER/"><img src="https://img.shields.io/badge/Newsletter-IA.gora-6E56CF?style=flat-square&logo=substack&logoColor=white" alt="IA.gora"></a>
+  <a href="https://www.linkedin.com/newsletters/ia-gora-7471617957199114240/"><img src="https://img.shields.io/badge/Newsletter-IA.gora-6E56CF?style=flat-square&logo=substack&logoColor=white" alt="IA.gora"></a>
   <a href="mailto:iuripereira@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -45,7 +45,7 @@ open_to:   100% remote roles — IT Governance, ITSM, AI-augmented ops
 |---|---|---|
 | **deltaspec** | Spec-Driven Development framework + custom Claude Code skills | Claude Code · Markdown specs |
 | **Veredas.Tech** | IT consultancy: ITSM design, automation, AI enablement and training for corporate clients | Python · REST APIs · Atlassian · MCP |
-| **Visto Potiguar** | 🥇 one between 5 finalists, on a hackathon — presented at CONETUR | AI · Product |
+| **Visto Potiguar** | Top-5 finalist at the [Hackathon do Sol](https://hackathondosol.com.br/) | AI · Product · Inovation |
 
 
 <sub>📌 Pinned repos below carry the code. Some client work stays private — happy to walk through architecture on a call.</sub>
